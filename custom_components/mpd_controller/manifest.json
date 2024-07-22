@@ -1,0 +1,8 @@
+{
+  "domain": "mpd_controller",
+  "name": "MPD Controller",
+  "codeowners": ["@bruno.rossetto"],
+  "documentation": "https://git.brr.tec.br/bruno.rossetto/mpd_controller",
+  "issue_tracker": "https://git.brr.tec.br/bruno.rossetto/mpd_controller/issues",
+  "version": "1.0"
+}
